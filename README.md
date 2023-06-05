@@ -25,7 +25,7 @@
 - [📝 License](#license)
 
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 [Project Review] <a name="about-project"></a>
 
 **Project Review** is a Microverse Project required in Module 1 of the Micorverse Full-Stack Program. In this project, I am giving a review to myself for my project I did in trials.
 
