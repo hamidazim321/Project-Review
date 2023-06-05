@@ -27,7 +27,7 @@
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-**Hello Microverse**  is a Microverse Project required in Module 1 of the Micorverse Full-Stack Program.
+**Project Review** is a Microverse Project required in Module 1 of the Micorverse Full-Stack Program. In this project, I am giving a review to myself for my project I did in trials.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -63,21 +63,9 @@
 
 > Describe between 1-3 key features of the application.
 
-- **Has a Heading on Home page**
-- **Uses linters to automatically check code standards**
-
+- **Has an image on the home page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Has not been deployed yet
-
-- [Live Demo Link](https://google.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
