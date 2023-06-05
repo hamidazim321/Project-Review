@@ -1,0 +1,46 @@
+/* Center the image */
+#img-div {
+    text-align: center;
+  }
+
+  /* Resize the image */
+  #image {
+    max-width: 100%;
+    width: 40%;
+  }
+
+  /* Style the title */
+  #title {
+    text-align: center;
+    font-size: 36px;
+    margin-top: 50px;
+  }
+
+  /* Style the tribute info */
+  #tribute-info {
+    text-align: justify;
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 30px 0;
+  }
+
+  /* Style the tribute link */
+  #tribute-link {
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 30px;
+    color: #007bff;
+    text-decoration: none;
+  }
+
+  /* Style the tribute link on hover */
+  #tribute-link:hover {
+    color: #0056b3;
+  }
+
+#tribute-info p{
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
